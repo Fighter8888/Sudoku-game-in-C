@@ -1,3 +1,0 @@
-C:/Users/Fighter88/CLionProjects/Sudoku_Game/cmake-build-debug/CMakeFiles/Sudoku_Game.dir
-C:/Users/Fighter88/CLionProjects/Sudoku_Game/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Fighter88/CLionProjects/Sudoku_Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
